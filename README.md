@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## Hi, I'm Mikołaj<br>
 <br>🧠Currently studing CS in PBŚ<br/>
 <br>🔧Trying to build usefull things but not alwase working<br/>
